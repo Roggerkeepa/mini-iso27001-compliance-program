@@ -1,4 +1,4 @@
-## Scope Definition – NovaCloud AI Solutions
+## Scope Definition – Sofunny101Cloud AI Solutions
 
 Sofunny101Cloud AI Solutions is a fictional SaaS startup providing an AI-powered web application to business customers. The organization employs approximately 25 staff members and operates primarily in a cloud-based environment.
 
